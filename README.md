@@ -18,3 +18,8 @@ Exercises in LinkedIn Learning - HTML Essential Training
 - build page navigation (document-relative links)
 - link to external sites (target, title)
 - link to internal sections (id)
+
+4. **Creating Lists**
+- ordered list
+- unordered list
+- description list
