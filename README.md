@@ -23,3 +23,11 @@ Exercises in LinkedIn Learning - HTML Essential Training
 - ordered list
 - unordered list
 - description list
+
+5. **Controlling Styles**
+- inline CSS
+- style element
+- external style
+- typography
+- color, font, size
+- float images
